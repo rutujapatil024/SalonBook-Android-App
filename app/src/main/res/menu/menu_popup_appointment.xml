@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_view_details"
+        android:title="@string/view_details" />
+    <item
+        android:id="@+id/popup_confirm"
+        android:title="@string/confirm_appointment" />
+    <item
+        android:id="@+id/popup_cancel"
+        android:title="@string/cancel_appointment" />
+    <item
+        android:id="@+id/popup_complete"
+        android:title="@string/complete_appointment" />
+    <item
+        android:id="@+id/popup_call"
+        android:title="@string/call_customer" />
+</menu>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="purple_primary">#6A1B9A</color>
+    <color name="purple_primary_dark">#4A148C</color>
+    <color name="purple_primary_light">#CE93D8</color>
+    <color name="purple_secondary">#CE93D8</color>
+    <color name="accent_white">#FFFFFF</color>
+
+    <!-- Surface & Background -->
+    <color name="background_light">#F5F0F7</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_dark">#1C1B1F</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Status Badge Colors -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_confirmed">#2196F3</color>
+    <color name="status_confirmed_bg">#E3F2FD</color>
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_completed_bg">#E8F5E9</color>
+    <color name="status_cancelled">#F44336</color>
+    <color name="status_cancelled_bg">#FFEBEE</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_available">#4CAF50</color>
+    <color name="chip_busy">#F44336</color>
+    <color name="chip_category">#EDE7F6</color>
+    <color name="chip_category_text">#6A1B9A</color>
+
+    <!-- Dashboard Card Colors -->
+    <color name="dashboard_total">#6A1B9A</color>
+    <color name="dashboard_pending">#FF9800</color>
+    <color name="dashboard_confirmed">#2196F3</color>
+    <color name="dashboard_completed">#4CAF50</color>
+
+    <!-- Other -->
+    <color name="divider">#E0E0E0</color>
+    <color name="ripple_purple">#1A6A1B9A</color>
+    <color name="splash_gradient_start">#6A1B9A</color>
+    <color name="splash_gradient_end">#4A148C</color>
+    <color name="rating_star">#FFC107</color>
+    <color name="disabled_chip">#BDBDBD</color>
+    <color name="disabled_chip_text">#757575</color>
+</resources>

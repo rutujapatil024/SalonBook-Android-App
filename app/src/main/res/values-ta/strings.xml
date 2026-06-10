@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalonBook</string>
+    <string name="app_tagline">உங்கள் ஸ்டைலை புக் செய்யுங்கள்</string>
+    <string name="login">உள்நுழைவு</string>
+    <string name="register">பதிவு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="full_name">முழு பெயர்</string>
+    <string name="phone_number">தொலைபேசி எண்</string>
+    <string name="customer">வாடிக்கையாளர்</string>
+    <string name="salon_owner">சலூன் உரிமையாளர்</string>
+    <string name="nav_services">சேவைகள்</string>
+    <string name="nav_stylists">ஸ்டைலிஸ்ட்</string>
+    <string name="nav_appointments">நியமனங்கள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+    <string name="nav_dashboard">டாஷ்போர்டு</string>
+    <string name="save">சேமி</string>
+    <string name="delete">நீக்கு</string>
+    <string name="edit">திருத்து</string>
+    <string name="share">பகிர்</string>
+    <string name="available">கிடைக்கும்</string>
+    <string name="busy">பிஸி</string>
+    <string name="book_now">இப்போது புக் செய்</string>
+    <string name="upcoming">வரவிருக்கும்</string>
+    <string name="past">கடந்த</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="search">தேடு</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="no_internet">இணைய இணைப்பு இல்லை</string>
+</resources>

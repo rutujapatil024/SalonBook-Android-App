@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485841912193",
+    "project_id": "salonbook-deece",
+    "storage_bucket": "salonbook-deece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485841912193:android:c137682953b7040d766880",
+        "android_client_info": {
+          "package_name": "com.salonbook.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOQ8JMcs3kf2C0f25kKbhFQO-wDHBSnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

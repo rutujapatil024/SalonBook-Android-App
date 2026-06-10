@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/purple_primary"
+        app:title="@string/settings"
+        app:titleTextColor="@color/accent_white"
+        app:navigationIcon="@android:drawable/ic_menu_revert"
+        app:navigationIconTint="@color/accent_white" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        style="@style/SalonBook.Card">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select_language"
+                style="@style/SalonBook.Text.Heading" />
+
+            <RadioGroup
+                android:id="@+id/radioGroupLanguage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/rbEnglish"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_english"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbHindi"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_hindi"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbMarathi"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_marathi"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbGujarati"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_gujarati"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbTamil"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_tamil"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+
+                <RadioButton
+                    android:id="@+id/rbPunjabi"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="@string/lang_punjabi"
+                    android:textSize="16sp"
+                    android:buttonTint="@color/purple_primary" />
+            </RadioGroup>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

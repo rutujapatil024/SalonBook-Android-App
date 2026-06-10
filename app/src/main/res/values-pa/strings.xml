@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalonBook</string>
+    <string name="app_tagline">ਆਪਣੀ ਸਟਾਈਲ ਬੁੱਕ ਕਰੋ, ਆਪਣੇ ਤਰੀਕੇ ਨਾਲ</string>
+    <string name="login">ਲੌਗਇਨ</string>
+    <string name="register">ਰਜਿਸਟਰ</string>
+    <string name="email">ਈਮੇਲ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="full_name">ਪੂਰਾ ਨਾਮ</string>
+    <string name="phone_number">ਫ਼ੋਨ ਨੰਬਰ</string>
+    <string name="customer">ਗ੍ਰਾਹਕ</string>
+    <string name="salon_owner">ਸੈਲੂਨ ਮਾਲਕ</string>
+    <string name="nav_services">ਸੇਵਾਵਾਂ</string>
+    <string name="nav_stylists">ਸਟਾਈਲਿਸਟ</string>
+    <string name="nav_appointments">ਅਪੌਇੰਟਮੈਂਟ</string>
+    <string name="nav_profile">ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="nav_dashboard">ਡੈਸ਼ਬੋਰਡ</string>
+    <string name="save">ਸੇਵ ਕਰੋ</string>
+    <string name="delete">ਮਿਟਾਓ</string>
+    <string name="edit">ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="available">ਉਪਲਬਧ</string>
+    <string name="busy">ਰੁੱਝੇ</string>
+    <string name="book_now">ਹੁਣੇ ਬੁੱਕ ਕਰੋ</string>
+    <string name="upcoming">ਆਉਣ ਵਾਲੇ</string>
+    <string name="past">ਪਿਛਲੇ</string>
+    <string name="profile">ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="logout">ਲੌਗਆਊਟ</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="search">ਖੋਜੋ</string>
+    <string name="yes">ਹਾਂ</string>
+    <string name="no">ਨਹੀਂ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="no_internet">ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ</string>
+    <string name="dashboard">ਡੈਸ਼ਬੋਰਡ</string>
+    <string name="total_today">ਅੱਜ ਕੁੱਲ</string>
+    <string name="pending_count">ਬਕਾਇਆ</string>
+    <string name="confirmed_count">ਪੁਸ਼ਟੀ</string>
+    <string name="completed_count">ਪੂਰਾ</string>
+    <string name="add_walkin">ਵਾਕ-ਇਨ ਜੋੜੋ</string>
+    <string name="quick_actions">ਤੇਜ਼ ਕਾਰਵਾਈਆਂ</string>
+</resources>

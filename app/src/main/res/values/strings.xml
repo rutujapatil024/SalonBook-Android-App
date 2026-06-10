@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">SalonBook</string>
+    <string name="app_tagline">Book Your Style, Your Way</string>
+
+    <!-- Splash -->
+    <string name="splash_loading">Loading…</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="select_role">Select Role</string>
+    <string name="customer">Customer</string>
+    <string name="salon_owner">Salon Owner</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="login_success">Login successful!</string>
+    <string name="register_success">Registration successful! Please login.</string>
+    <string name="login_failed">Invalid email or password</string>
+    <string name="register_failed">Registration failed. Please try again.</string>
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="password_min_length">Password must be at least 6 characters</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="registering">Registering…</string>
+
+    <!-- Navigation -->
+    <string name="nav_services">Services</string>
+    <string name="nav_stylists">Stylists</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_dashboard">Dashboard</string>
+
+    <!-- Services -->
+    <string name="services">Services</string>
+    <string name="add_service">Add Service</string>
+    <string name="edit_service">Edit Service</string>
+    <string name="service_name">Service Name</string>
+    <string name="category">Category</string>
+    <string name="duration_minutes">Duration (minutes)</string>
+    <string name="price">Price (₹)</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="service_saved">Service saved successfully!</string>
+    <string name="service_updated">Service updated successfully!</string>
+    <string name="service_deleted">Service deleted successfully!</string>
+    <string name="confirm_delete_service">Are you sure you want to delete this service?</string>
+    <string name="no_services">No services available</string>
+    <string name="no_services_desc">Services will appear here once added</string>
+    <string name="min_text">min</string>
+
+    <!-- Categories -->
+    <string name="cat_haircut">Haircut</string>
+    <string name="cat_facial">Facial</string>
+    <string name="cat_massage">Massage</string>
+    <string name="cat_waxing">Waxing</string>
+    <string name="cat_manicure">Manicure</string>
+    <string name="cat_pedicure">Pedicure</string>
+    <string name="cat_bridal">Bridal</string>
+    <string name="cat_other">Other</string>
+
+    <!-- Stylists -->
+    <string name="stylists">Stylists</string>
+    <string name="add_stylist">Add Stylist</string>
+    <string name="edit_stylist">Edit Stylist</string>
+    <string name="stylist_name">Stylist Name</string>
+    <string name="specialization">Specialization</string>
+    <string name="experience_years">Experience (years)</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_gallery">Choose from Gallery</string>
+    <string name="available">Available</string>
+    <string name="busy">Busy</string>
+    <string name="stylist_saved">Stylist saved successfully!</string>
+    <string name="stylist_updated">Stylist updated successfully!</string>
+    <string name="stylist_deleted">Stylist deleted successfully!</string>
+    <string name="confirm_delete_stylist">Are you sure you want to delete this stylist?</string>
+    <string name="no_stylists">No stylists available</string>
+    <string name="no_stylists_desc">Stylists will appear here once added</string>
+    <string name="years_exp">yrs exp</string>
+
+    <!-- Specializations -->
+    <string name="spec_hair">Hair</string>
+    <string name="spec_skin">Skin</string>
+    <string name="spec_nails">Nails</string>
+    <string name="spec_bridal">Bridal</string>
+    <string name="spec_general">General</string>
+
+    <!-- Appointments -->
+    <string name="appointments">Appointments</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="select_service">Select Service</string>
+    <string name="select_stylist">Select Stylist</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time_slot">Select Time Slot</string>
+    <string name="book_now">Book Now</string>
+    <string name="booking_success">Appointment booked successfully!</string>
+    <string name="booking_failed">Failed to book appointment. Please try again.</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+    <string name="no_appointments">No appointments found</string>
+    <string name="no_appointments_desc">Your appointments will appear here</string>
+    <string name="appointment_details">Appointment Details</string>
+    <string name="confirm_appointment">Confirm Appointment</string>
+    <string name="cancel_appointment">Cancel Appointment</string>
+    <string name="complete_appointment">Mark as Completed</string>
+    <string name="appointment_confirmed">Appointment confirmed!</string>
+    <string name="appointment_cancelled">Appointment cancelled!</string>
+    <string name="appointment_completed">Appointment marked as completed!</string>
+    <string name="confirm_cancel_appointment">Are you sure you want to cancel this appointment?</string>
+    <string name="view_details">View Details</string>
+    <string name="call_customer">Call Customer</string>
+    <string name="call_salon">Call Salon</string>
+
+    <!-- Status -->
+    <string name="status_pending">PENDING</string>
+    <string name="status_confirmed">CONFIRMED</string>
+    <string name="status_completed">COMPLETED</string>
+    <string name="status_cancelled">CANCELLED</string>
+
+    <!-- Walk-in -->
+    <string name="add_walkin">Add Walk-in</string>
+    <string name="walkin_saved">Walk-in entry saved!</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="select_time">Select Time</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="today_appointments">Today\'s Appointments</string>
+    <string name="all_appointments">All Appointments</string>
+    <string name="total_today">Total</string>
+    <string name="pending_count">Pending</string>
+    <string name="confirmed_count">Confirmed</string>
+    <string name="completed_count">Completed</string>
+    <string name="recent_appointments">Recent Appointments</string>
+    <string name="quick_actions">Quick Actions</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="profile_updated">Profile updated!</string>
+    <string name="logout">Logout</string>
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिन्दी (Hindi)</string>
+    <string name="lang_marathi">मराठी (Marathi)</string>
+    <string name="lang_gujarati">ગુજરાતી (Gujarati)</string>
+    <string name="lang_tamil">தமிழ் (Tamil)</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="language_changed">Language changed!</string>
+
+    <!-- Menus -->
+    <string name="search">Search</string>
+    <string name="filter_category">Filter by Category</string>
+    <string name="all_categories">All Categories</string>
+
+    <!-- Intents -->
+    <string name="send_email">Send Email Confirmation</string>
+    <string name="open_maps">Open in Maps</string>
+    <string name="salon_location">Salon Location</string>
+    <string name="share_service_text">Check out %1$s at SalonBook! Price: ₹%2$s, Duration: %3$s min</string>
+    <string name="email_subject">Appointment Confirmation — SalonBook</string>
+    <string name="email_body">Dear %1$s,\n\nYour appointment has been %2$s.\n\nService: %3$s\nStylist: %4$s\nDate: %5$s\nTime: %6$s\n\nThank you for choosing SalonBook!</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Appointment Reminders</string>
+    <string name="notification_channel_desc">Reminders for upcoming appointments</string>
+    <string name="notification_title">Appointment Reminder</string>
+    <string name="notification_body">Your appointment for %1$s with %2$s is in 1 hour!</string>
+    <string name="appointment_status_changed">Appointment status updated</string>
+
+    <!-- Network -->
+    <string name="no_internet">No internet connection</string>
+    <string name="internet_restored">Internet connection restored</string>
+
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred. Please try again.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="permission_camera">Camera permission is required to take photos</string>
+    <string name="permission_storage">Storage permission is required to choose photos</string>
+    <string name="permission_call">Phone permission is required to make calls</string>
+    <string name="permission_notification">Notification permission is required for reminders</string>
+    <string name="date_format">dd MMM yyyy</string>
+    <string name="currency_symbol">₹</string>
+</resources>
